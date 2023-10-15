@@ -1,0 +1,20 @@
+.footer {
+    height: 50px;
+    background-color: #012A4A;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.copyright-text {
+    color: white;
+    font-family: 'Oswald'sans-serif;
+}
+.footer-link {
+    color: aqua;
+    font-family: 'Oswald';
+    text-decoration: none;
+    padding-right: 15px;
+}

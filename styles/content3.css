@@ -1,0 +1,22 @@
+.content3 {
+    background-color: #61A5C2;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.quote {
+    text-align: left;
+    font-family: garamond;
+    font-size: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: rgb(255, 255, 138);
+}
+.quote-author {
+    text-align: right;
+    font-family: 'Oswald'cursive;
+    font-size: 20px;
+    color: aqua;
+}
