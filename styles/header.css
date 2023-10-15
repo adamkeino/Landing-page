@@ -1,0 +1,33 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100px;
+    background-color: #012A4A;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-logo {
+    width: 250px;
+}
+.header-links {
+    display: flex;
+    flex: 1;
+    justify-content: right;
+    margin-right: 50px;
+}
+.logo-image {
+    width: 30%;
+    height: 30%;
+    padding-left: 25px;
+}
+.header-link {
+    color: aqua;
+    text-decoration: none;
+    padding-right: 25px;
+    font-family: 'Oswald', sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
+}
